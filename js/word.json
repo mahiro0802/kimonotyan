@@ -36,6 +36,10 @@
         "disp":["ダメージジーンズ履いて顔がブスで金髪でいきがってる人とかタトゥー入ってる人"]
     },
     {
+        "name":"めっちゃ森本で鬱",
+        "disp":["「森本さんのこと考えちゃってうつ病になっちゃう」","<video width=\"200\" src=\"../js/metya.mp4\" class=\"video-js\" data-setup={} controls playsinline>"]
+    },
+    {
         "name":"マドモアゼル",
         "disp":["独特な思考を持ったお年を召したお姉様方","命の母がないと生きていけない。"]
     },
@@ -49,6 +53,6 @@
     },
     {
         "name":"カッチーンぱわわっぷ",
-        "disp":["ブチギレたときに使う言葉。","音量注意","<video src=\"../js/pawa.mp4\" width=\"200\" controls></video>"]
+        "disp":["ブチギレたときに使う言葉。","音量注意","<video src=\"../js/pawa.mp4\" width=\"200\" class=\"video-js\" data-setup={} controls playsinline></video>"]
     }
 ]
