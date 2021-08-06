@@ -54,5 +54,9 @@
     {
         "name":"カッチーンぱわわっぷ",
         "disp":["ブチギレたときに使う言葉。","音量注意","<video src=\"../js/pawa.mp4\" width=\"200\" class=\"video-js\" data-setup={} controls playsinline></video>"]
+    },
+    {
+        "name":"蕎麦芸",
+        "disp":["泣いている人がそばをすすってるような音を立てるため、嘘泣き疑惑のときなどに使われる。"]
     }
 ]
